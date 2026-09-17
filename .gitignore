@@ -1,0 +1,6 @@
+# Ignorar carpetas de editores de código
+.vscode/
+
+# Ignorar archivos ocultos del sistema operativo
+Thumbs.db
+.DS_Store
