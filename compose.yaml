@@ -1,3 +1,4 @@
+# Archivo para levantar el contenedor de PostgreSQL
 services:
   db:
     image: postgres:16
