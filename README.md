@@ -7,3 +7,4 @@
 ## Índice
 1. Ejercicio 1: Control de versiones con Git y GitHub
 2. Ejercicio 2: El sistema gestor en un contenedor: Docker
+## Respuestas de la Parte A (Investigación)
